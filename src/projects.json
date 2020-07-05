@@ -1,0 +1,96 @@
+{
+  "1": {
+    "id": 1,
+    "title": "Mealprep Buddy",
+    "image": "mealprep-buddy.png",
+    "shortDesc": "Intelligent meal planner",
+    "description": "Responsive web assistant which creates a week's worth of meal planning based on the weather conditions of your city. Provides links to recipies and creates a shopping list of needed ingredients in the correct quantities. Group project.",
+    "tech": [
+      "OpenWeatherMap API",
+      "Spoonacular API",
+      "Skeleton.js",
+      "local storage",
+      "Vanilla JS",
+      "HTML5"
+    ],
+    "GHLink": "https://github.com/PeterTYLiu/Project-1",
+    "liveLink": "https://petertyliu.github.io/Project-1/index.html",
+    "thumbnail": "mealprep.png"
+  },
+  "2": {
+    "id": 2,
+    "title": "Weather Dashboard",
+    "image": "weather-dashboard.png",
+    "shortDesc": "Responsive weather app with local storage",
+    "description": "Responsive web app to fetch current weather conditions of any city, as well as provide a five-day forecast. Stores search history locally, with results available offline.",
+    "tech": [
+      "OpenWeatherMap API",
+      "Skeleton.js",
+      "local storage",
+      "Vanilla JS",
+      "HTML5"
+    ],
+    "GHLink": "https://github.com/PeterTYLiu/sixth-assignment-weather-dashboard",
+    "liveLink": "https://petertyliu.github.io/sixth-assignment-weather-dashboard/",
+    "thumbnail": "weather.png"
+  },
+  "3": {
+    "id": 3,
+    "title": "Day Planner",
+    "image": "planner.png",
+    "shortDesc": "jQuery and Bootstrap day planner",
+    "description": "Responsive web app to plan a day. Dynamically changes formatting based on the current time. Code written elegantly so that the starting time and number of hours planned can be easily changed.",
+    "tech": ["jQuery", "Bootstrap", "local storage"],
+    "GHLink": "https://github.com/PeterTYLiu/fifth-assignment-day-planner",
+    "liveLink": "https://petertyliu.github.io/fifth-assignment-day-planner/index.html",
+    "thumbnail": "planner.png"
+  },
+  "4": {
+    "id": 4,
+    "title": "BubblEscape (Android app)",
+    "image": "bubblescape.png",
+    "shortDesc": "Fun and creative Android game",
+    "description": "Created designs and graphics for an android game in high school with friends. Game is awful, graphics are great.",
+    "tech": ["GIMP"],
+    "GHLink": null,
+    "liveLink": "https://play.google.com/store/apps/details?id=com.RICE",
+    "thumbnail": "bubblescape.png"
+  },
+  "5": {
+    "id": 5,
+    "title": "Gotchitama Virtual Pet",
+    "image": "gotchitama.png",
+    "shortDesc": "Digital pet companionship and battle simulator",
+    "description": "Group project: an online virtual pet and battle game. Take care of your pet and battle with other users. Responsive web app built on Node.",
+    "tech": [
+      "Node",
+      "Handlebars",
+      "Heroku",
+      "Express",
+      "Animate.css",
+      "Skeleton.js"
+    ],
+    "GHLink": "https://github.com/sandyboon/GotchiTama",
+    "liveLink": "https://sleepy-badlands-73130.herokuapp.com/",
+    "thumbnail": "gotchitama.png"
+  },
+  "6": {
+    "id": 6,
+    "title": "Eat Da Burger",
+    "image": "burger.jpg",
+    "shortDesc": "Demonstration of MVC and ORM concepts",
+    "description": "Webapp built using MVC and ORM concepts.",
+    "tech": [
+      "Heroku",
+      "JawsDB",
+      "mySQL",
+      "Handlebars",
+      "Express",
+      "CSS3",
+      "HTML5"
+    ],
+    "GHLink": "https://github.com/PeterTYLiu/twelfth-assignment-burgers",
+    "liveLink": "https://eat-da-burger-a12.herokuapp.com/",
+    "thumbnail": "burger.jpg"
+  }
+}

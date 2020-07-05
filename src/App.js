@@ -6,7 +6,7 @@ import Contact from "./components/Contact";
 import Work from "./components/Work";
 import About from "./components/About";
 import ProjectModal from "./components/ProjectModal";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
